@@ -6,9 +6,9 @@ baseurl:
 # any subdirectory that appears after the domain where you're publishing your site
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
-topnav_title: Puppet RampUp Program
+topnav_title: Puppet Ramp Up Program
 # this appears on the top navigation bar next to the home button
-site_title: Puppet RampUp Program
+site_title: Puppet Ramp Up Program
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 company_name: Puppet
 # this appears in the footer

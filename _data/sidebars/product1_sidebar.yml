@@ -23,8 +23,8 @@ entries:
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page/
+    - title: Ramp Up Home
+      url: /rampup_landing_page/
       output: web
 
     - title: Install GitLab 
