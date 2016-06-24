@@ -1,9 +1,9 @@
 ---
-title: Install GitLab 
-keywords: git gitlab 
+title: Install GitLab
+keywords: git gitlab
 summary: "Install GitLab for use with Code Manager"
 sidebar: product1_sidebar
-permalink: /install_gitlab/
+permalink: /git_server/gitlab/
 ---
 
 ### GitLab

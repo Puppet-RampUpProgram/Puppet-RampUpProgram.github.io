@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: Ramp Up Program 
+  product: Ramp Up Program
   version:
   folders:
 
@@ -20,41 +20,39 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: Ramp Up Home
     output: web, pdf
     folderitems:
     - title: Ramp Up Home
       url: /rampup_landing_page/
       output: web
 
-    - title: Install GitLab 
-      url: /install_gitlab/
-      output: web, pdf
-      
-    - title: Sample 2
-      url: /p1_sample2/
-      output: web, pdf
-      
-    - title: Sample 3
-      url: /p1_sample3/
-      output: web, pdf
-
-  - title: Another heading
+  - title: PE Installation
     output: web, pdf
-
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4/
+    - title: Considerations
+      url: /pe_installation/considerations/
+      output: web
+
+  - title: Choosing a Git Server
+    output: web, pdf
+    folderitems:
+    - title: Considerations
+      url: /git_server/considerations/
       output: web, pdf
-    
-    - title: Sample 5
-      url: /p1_sample5/
+    - title: GitLab
+      url: /git_server/gitlab/
       output: web, pdf
-    
-    - title: Sample 6
-      url: /p1_sample6/
+    - title: Bitbucket
+      url: /git_server/bitbucket/
       output: web, pdf
-    
-    - title: Sample 7
-      url: /p1_sample7/
+    - title: Github
+      url: /git_server/github/
+      output: web, pdf
+
+  - title: Manage NTP
+    output: web, pdf
+    folderitems:
+    - title: Manage NTP
+      url: /manage_ntp/manage_ntp
       output: web, pdf
